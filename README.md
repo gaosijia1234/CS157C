@@ -1,4 +1,4 @@
-# CS157C SJSU Doctor Kim Homework 3
+# CS157C SJSU Doctor Homework 3
 
 ## Youtube Link:
 
