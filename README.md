@@ -1,7 +1,5 @@
 # CS157C SJSU Doctor Homework 3
 
-## Youtube Link:
-
 
 This assignment is to have hands-on exercises for MongoDB replica set and sharding. Specific tasks you need to finish include 1) setting up a replica set in a single node, 2) setting up a replica set in a cluster of three nodes, and 3) setting up sharding in a single node
 Given instructions should serve as guidelines to accomplish the assigned tasks.Troubleshooting required to finish the tasks should be considered as part of this assignment.
